@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     
     cout<< "Evhenii Orza\n";
-    cout<<"Veronika Stepaniuk"<<endl;
+    cout<<"Veronika Stepaniuk\n";
 
     return 0;
 }
