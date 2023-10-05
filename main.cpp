@@ -6,7 +6,6 @@ int main(){
 
 
     
-    cout << "Mykyta Shabanov" << endl;
 
     return 0;
 }
