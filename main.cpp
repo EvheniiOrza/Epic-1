@@ -3,6 +3,6 @@ using namespace std;
 int main(){
     
     cout<< "Evhenii Orza\n";
-    cout<< "Vita Mostova"<< endl;
+    cout<< "Vita Mostova\n";
     return 0;
 }
