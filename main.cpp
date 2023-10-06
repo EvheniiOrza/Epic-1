@@ -4,7 +4,7 @@ int main(){
     
     cout<< "Evhenii Orza\n";
     
-    cout << "Mykyta Shabanov\n";
+    cout << "Mykyta Shabanov"<<endl;
 
     return 0;
 }
