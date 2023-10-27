@@ -7,7 +7,5 @@ int main(){
     cout<< "Vita Mostova\n";
 
 
-
-
     return 0;
 }
